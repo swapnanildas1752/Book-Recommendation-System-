@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+gensim
+keybert
+diffusers
+torch
+transformers
+
